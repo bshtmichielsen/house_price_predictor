@@ -6,7 +6,7 @@ This repository provides a foundational notebook designed to introduce students 
 
 As you go through the notebook, I invite you to think critically about its design and consider potential enhancements, thereby deepening your understanding of regression techniques, the PyTorch Lightning library and machine learning in general.
 
-## Learning alignments
+## 🎯 Learning alignments
 The following aspects of machine learning are part of this example:
  - Pytorch Lightning project structure (DataSet, DataModule, LightningModule, Trainer)
  - Working with data files, in this case CSV
@@ -14,14 +14,14 @@ The following aspects of machine learning are part of this example:
  - Validation (using a val dataset during training)
  - Evaluation (using a test dataset after training)
 
-## Possible consideration for improvement
+## 🤔 Consideration for improvement
 This notebook is an example on how to get started, it is open for improvements and enhancements. Feel free to clone my work and use it to study and learn. Things to consider if you want to improve this work:
 
 - Maybe adding an additional (fully) connected layer makes the model better?
 - Perhaps a visualization of the errors at the end would be interesting.
 - Try with your own CSV file!
 
-## Citation & Star
+## ⭐ Citation & Star
 If you use my work please cite and star ⭐ this repo. Thanks!
 
 Michielsen, Bas S.H.T. (2025) "House Price Predictor" GitHub: https://github.com/bshtmichielsen/house_price_predictor
