@@ -14,7 +14,7 @@ The following aspects of machine learning are part of this example:
  - Validation (using a val dataset during training)
  - Evaluation (using a test dataset after training)
 
-## 🤔 Consideration for improvement
+## 🤔 Considerations for improvement
 This notebook is an example on how to get started, it is open for improvements and enhancements. Feel free to clone my work and use it to study and learn. Things to consider if you want to improve this work:
 
 - Maybe adding an additional (fully) connected layer makes the model better?
