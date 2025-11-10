@@ -1,7 +1,7 @@
 # House Price Predictor
 This repository provides a foundational notebook designed to introduce students to machine learning using PyTorch Lightning. The example focuses on a regression problem, utilizing the Boston House Price dataset, which is presented in a CSV format and contains 13 features that are instrumental in predicting the selling price of a house. To maintain clarity and facilitate understanding for those new to machine learning, the model architecture consists of a single fully connected layer. While I acknowledge that employing a neural network for such a straightforward regression task may not be the most practical approach in real-world scenarios, the primary goal of this exercise is to familiarize students with the PyTorch Lightning framework. This example serves as a stepping stone, allowing students to grasp the fundamental concepts of machine learning while encouraging exploration and experimentation. 
 
-![house-price-predictor](https://raw.githubusercontent.com/bshtmichielsen/house_price_predictor/refs/heads/main/img.jpg)
+![house-price-predictor](https://raw.githubusercontent.com/bshtmichielsen/house_price_predictor/refs/heads/main/BANNER.jpg)
 *Image by Stable Diffusion: a robot selling houses in Boston*
 
 As you go through the notebook, I invite you to think critically about its design and consider potential enhancements, thereby deepening your understanding of regression techniques, the PyTorch Lightning library and machine learning in general.
