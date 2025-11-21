@@ -8,6 +8,7 @@ This notebook is intentionally designed as a foundational starting point and doe
 
 ## 📚 Preparation
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
+ - [Regression](https://en.wikipedia.org/wiki/Regression_analysis).
  - Loading data from and [working with CSV files](https://www.geeksforgeeks.org/python/working-csv-files-python/)
  - The [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/starter/introduction.html) project structure and its elements ([DataSet & DataModule](https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html), [LightningModule](https://lightning.ai/docs/pytorch/stable/common/lightning_module.html), [Trainer](https://lightning.ai/docs/pytorch/stable/common/trainer.html))
  - The idea of [building a Neural Network](https://www.datacamp.com/tutorial/pytorch-tutorial-building-a-simple-neural-network-from-scratch) using layers.
