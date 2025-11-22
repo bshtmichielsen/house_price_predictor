@@ -8,10 +8,11 @@ This notebook is intentionally designed as a foundational starting point and doe
 
 ## 📚 Preparation
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
- - Loading data from and [working with CSV files](https://www.geeksforgeeks.org/python/working-csv-files-python/)
- - The [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/starter/introduction.html) project structure and its elements ([DataSet & DataModule](https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html), [LightningModule](https://lightning.ai/docs/pytorch/stable/common/lightning_module.html), [Trainer](https://lightning.ai/docs/pytorch/stable/common/trainer.html))
- - The reasons for making [train, validate and test](https://en.wikipedia.org/wiki/Training%2C_validation%2C_and_test_data_sets) datasets.
- - The regression evaluation metrics [Coefficient of determination (R²)](https://en.wikipedia.org/wiki/Coefficient_of_determination) and [Root Mean Square Error](https://en.wikipedia.org/wiki/Root_mean_square_deviation)
+ - You know how to load data from and [work with CSV files](https://www.geeksforgeeks.org/python/working-csv-files-python/)
+ - You know the basic structure of a [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/starter/introduction.html) project and its elements ([DataSet & DataModule](https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html), [LightningModule](https://lightning.ai/docs/pytorch/stable/common/lightning_module.html), [Trainer](https://lightning.ai/docs/pytorch/stable/common/trainer.html))
+ - You understand the reasons for making [train, validate and test](https://en.wikipedia.org/wiki/Training%2C_validation%2C_and_test_data_sets) datasets.
+ - You know [what an epoch](https://www.geeksforgeeks.org/machine-learning/epoch-in-machine-learning/) is.
+ - You understand the purpose and value of regression evaluation metrics [Coefficient of determination (R²)](https://en.wikipedia.org/wiki/Coefficient_of_determination) and [Root Mean Square Error](https://en.wikipedia.org/wiki/Root_mean_square_deviation)
 
 ## 🎯 Learning opportunities
 The following aspects of machine learning are part of this example:
