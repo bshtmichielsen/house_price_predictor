@@ -10,19 +10,19 @@ This notebook is intentionally designed as a foundational starting point and doe
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
  - Loading data from and [working with CSV files](https://www.geeksforgeeks.org/python/working-csv-files-python/)
  - The [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/starter/introduction.html) project structure and its elements ([DataSet & DataModule](https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html), [LightningModule](https://lightning.ai/docs/pytorch/stable/common/lightning_module.html), [Trainer](https://lightning.ai/docs/pytorch/stable/common/trainer.html))
- - The idea of [building a Neural Network](https://www.datacamp.com/tutorial/pytorch-tutorial-building-a-simple-neural-network-from-scratch) using layers.
  - The reasons for making [train, validate and test](https://en.wikipedia.org/wiki/Training%2C_validation%2C_and_test_data_sets) datasets.
+ - The regression evaluation metrics [Coefficient of determination (R²)](https://en.wikipedia.org/wiki/Coefficient_of_determination) and [Root Mean Square Error](https://en.wikipedia.org/wiki/Root_mean_square_deviation)
 
 ## 🎯 Learning opportunities
 The following aspects of machine learning are part of this example:
-- Loading data into a dataset and make different loaders for different steps of the process.
-- Building a neural network using layers and reason on which layer does what.
-- Train using a deep-learning process with epochs and validate the training.
+- How to load data into a dataset and why make different loaders for different steps of the process.
+- How to train a neural network using deep-learning with epochs and validate its training process.
+- How to evaluate a model's performance using standardized evaluation metrics.
 
 ## 🤔 Considerations for improvement
 This notebook is an example on how to get started, it is open for improvements and enhancements. Feel free to clone my work and use it to study and learn. Things to consider if you want to improve this work:
-- Maybe adding an additional (fully) connected layer makes the model better?
-- Perhaps a visualization of the errors at the end would be interesting.
+- A visualization of the errors at the end would be interesting.
+- Calculate the R² and the RMSE of this model. What do their values mean in relation to the case? 
 
 ## ♻️ A different context
 Make a copy or clone of this repo, and change the code that loads the CSV file so that loads one of your own CSV files with completely different data in it. Preferably not about predicting the price of something. Make sure the target variable, that which needs to be predicted by the model, is in the last column of the CSV file, and is a continuous variable. Then, fix the notebook so that it works again. You do not need to make the model predict outcomes well (you can do that later if you want), just make the notebook run on your data first, so you can evaluate the outcomes.
