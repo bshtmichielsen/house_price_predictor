@@ -16,14 +16,16 @@ Please ensure that you are familiar with the following aspects in order to succe
 
 ## 🎯 Learning opportunities
 The following aspects of machine learning are part of this example:
-- How to load data into a dataset and why make different loaders for different steps of the process.
-- How to train a neural network using deep-learning with epochs and validate its training process.
-- How to evaluate a model's performance using standardized evaluation metrics.
+- Loading tabular data into a Tensor Dataset and making different loaders for different steps of the process.
+- Defining a simple neural network and training it using deep-learning with epochs.
+- Using a validation dataset to gauge the model's training gains.
+- Evaluating a regression model's performance using standardized evaluation metrics for regression problems.
 
 ## 🤔 Considerations for improvement
 This notebook is an example on how to get started, it is open for improvements and enhancements. Feel free to clone my work and use it to study and learn. Things to consider if you want to improve this work:
 - A visualization of the errors at the end would be interesting.
-- Calculate the R² and the RMSE of this model. What do their values mean in relation to the case? 
+- Calculating the R² and the RMSE of this model would help judging the model's performance. What do their values mean in relation to the case? 
+- Regression models can be sensitive to the data being distributed normally. Is it in this project? If not, what can we do?
 
 ## ♻️ A different context
 Make a copy or clone of this repo, and change the code that loads the CSV file so that loads one of your own CSV files with completely different data in it. Preferably not about predicting the price of something. Make sure the target variable, that which needs to be predicted by the model, is in the last column of the CSV file, and is a continuous variable. Then, fix the notebook so that it works again. You do not need to make the model predict outcomes well (you can do that later if you want), just make the notebook run on your data first, so you can evaluate the outcomes.
