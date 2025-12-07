@@ -15,7 +15,7 @@ Please ensure that you are familiar with the following aspects in order to succe
  - You understand the purpose and value of regression evaluation metrics [Coefficient of determination (R²)](https://en.wikipedia.org/wiki/Coefficient_of_determination) and [Root Mean Square Error](https://en.wikipedia.org/wiki/Root_mean_square_deviation)
 
 ## 🎯 Learning opportunities
-The following aspects of machine learning are part of this example:
+The following aspects of machine learning are part of this repo:
 - Loading tabular data into a Tensor Dataset and making different loaders for different steps of the process.
 - Defining a simple neural network and training it using deep-learning with epochs.
 - Using a validation dataset to gauge the model's training gains.
