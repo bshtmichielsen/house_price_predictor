@@ -27,9 +27,6 @@ This notebook is an example on how to get started, it is open for improvements a
 - Calculating the R² and the RMSE of this model would help judging the model's performance. What do their values mean in relation to the case? 
 - Regression models can be sensitive to the data being distributed normally. Is it in this project? If not, what can we do?
 
-## ♻️ A different context
-Make a copy or clone of this repo, and change the code that loads the CSV file so that loads one of your own CSV files with completely different data in it. Preferably not about predicting the price of something. Make sure the target variable, that which needs to be predicted by the model, is in the last column of the CSV file, and is a continuous variable. Then, fix the notebook so that it works again. You do not need to make the model predict outcomes well (you can do that later if you want), just make the notebook run on your data first, so you can evaluate the outcomes.
-
 ## ⭐ Citation & Star
 If you use my work please cite and star ⭐ this repo. Thanks!
 > Michielsen, Bas S.H.T. (2025) "House Price Predictor" GitHub: https://github.com/bshtmichielsen/house_price_predictor
